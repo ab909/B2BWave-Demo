@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-22T18:54:16Z" name="Suite" finished-at="2020-06-22T18:55:05Z" duration-ms="49246">
+    <groups>
+    </groups>
+    <test started-at="2020-06-22T18:54:16Z" name="Test" finished-at="2020-06-22T18:55:05Z" duration-ms="49246">
+      <class name="TestFlows.testFlow1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:25Z" name="setUp" finished-at="2020-06-22T18:54:31Z" duration-ms="6320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFlow1Test1()[pri:1, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:31Z" name="testFlow1Test1" finished-at="2020-06-22T18:54:35Z" duration-ms="4347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlow1Test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:35Z" name="tearDown" finished-at="2020-06-22T18:54:35Z" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:35Z" name="setUp" finished-at="2020-06-22T18:54:42Z" duration-ms="6126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFlow1Test2()[pri:2, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:42Z" name="testFlow1Test2" finished-at="2020-06-22T18:54:46Z" duration-ms="4405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlow1Test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:46Z" name="tearDown" finished-at="2020-06-22T18:54:46Z" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:46Z" name="setUp" finished-at="2020-06-22T18:54:54Z" duration-ms="8348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFlow1Test3()[pri:3, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:54Z" name="testFlow1Test3" finished-at="2020-06-22T18:55:01Z" duration-ms="6639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlow1Test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:55:01Z" name="tearDown" finished-at="2020-06-22T18:55:05Z" duration-ms="4364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestFlows.testFlow1 -->
+      <class name="TestFlows.testFlow2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow2@79ad8b2f]" started-at="2020-06-22T18:54:16Z" name="setUp" finished-at="2020-06-22T18:54:23Z" duration-ms="7311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFlow2Test1()[pri:0, instance:TestFlows.testFlow2@79ad8b2f]" started-at="2020-06-22T18:54:23Z" name="testFlow2Test1" finished-at="2020-06-22T18:54:25Z" duration-ms="1103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlow2Test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow2@79ad8b2f]" started-at="2020-06-22T18:54:25Z" name="tearDown" finished-at="2020-06-22T18:54:25Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestFlows.testFlow2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
