@@ -76,5 +76,13 @@
     <artifactId>commons-io</artifactId>
     <version>2.6</version>
 </dependency>
+
+<dependency>
+    <groupId>net.sourceforge.htmlunit</groupId>
+    <artifactId>webdriver</artifactId>
+    <version>2.6</version>
+    <scope>compile</scope>
+</dependency>
+
   </dependencies>
 </project>

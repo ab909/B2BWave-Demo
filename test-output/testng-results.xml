@@ -2,58 +2,58 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-06-22T18:54:16Z" name="Suite" finished-at="2020-06-22T18:55:05Z" duration-ms="49246">
+  <suite started-at="2020-08-30T18:01:01Z" name="Suite" finished-at="2020-08-30T18:02:10Z" duration-ms="68670">
     <groups>
     </groups>
-    <test started-at="2020-06-22T18:54:16Z" name="Test" finished-at="2020-06-22T18:55:05Z" duration-ms="49246">
+    <test started-at="2020-08-30T18:01:01Z" name="Test" finished-at="2020-08-30T18:02:10Z" duration-ms="68670">
       <class name="TestFlows.testFlow1">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:25Z" name="setUp" finished-at="2020-06-22T18:54:31Z" duration-ms="6320" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:18Z" name="setUp" finished-at="2020-08-30T18:01:27Z" duration-ms="9770" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testFlow1Test1()[pri:1, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:31Z" name="testFlow1Test1" finished-at="2020-06-22T18:54:35Z" duration-ms="4347" status="PASS">
+        <test-method signature="testFlow1Test1()[pri:1, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:27Z" name="testFlow1Test1" finished-at="2020-08-30T18:01:32Z" duration-ms="5045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFlow1Test1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:35Z" name="tearDown" finished-at="2020-06-22T18:54:35Z" duration-ms="102" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:32Z" name="tearDown" finished-at="2020-08-30T18:01:37Z" duration-ms="4141" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:35Z" name="setUp" finished-at="2020-06-22T18:54:42Z" duration-ms="6126" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:37Z" name="setUp" finished-at="2020-08-30T18:01:44Z" duration-ms="7794" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testFlow1Test2()[pri:2, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:42Z" name="testFlow1Test2" finished-at="2020-06-22T18:54:46Z" duration-ms="4405" status="PASS">
+        <test-method signature="testFlow1Test2()[pri:2, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:44Z" name="testFlow1Test2" finished-at="2020-08-30T18:01:52Z" duration-ms="7277" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFlow1Test2 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:46Z" name="tearDown" finished-at="2020-06-22T18:54:46Z" duration-ms="69" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:52Z" name="tearDown" finished-at="2020-08-30T18:01:52Z" duration-ms="166" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:46Z" name="setUp" finished-at="2020-06-22T18:54:54Z" duration-ms="8348" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:52Z" name="setUp" finished-at="2020-08-30T18:01:59Z" duration-ms="7158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testFlow1Test3()[pri:3, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:54:54Z" name="testFlow1Test3" finished-at="2020-06-22T18:55:01Z" duration-ms="6639" status="PASS">
+        <test-method signature="testFlow1Test3()[pri:3, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:01:59Z" name="testFlow1Test3" finished-at="2020-08-30T18:02:06Z" duration-ms="7052" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFlow1Test3 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@1df82230]" started-at="2020-06-22T18:55:01Z" name="tearDown" finished-at="2020-06-22T18:55:05Z" duration-ms="4364" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow1@67d48005]" started-at="2020-08-30T18:02:06Z" name="tearDown" finished-at="2020-08-30T18:02:10Z" duration-ms="4124" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- TestFlows.testFlow1 -->
       <class name="TestFlows.testFlow2">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow2@79ad8b2f]" started-at="2020-06-22T18:54:16Z" name="setUp" finished-at="2020-06-22T18:54:23Z" duration-ms="7311" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestFlows.testFlow2@294425a7]" started-at="2020-08-30T18:01:01Z" name="setUp" finished-at="2020-08-30T18:01:12Z" duration-ms="10426" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testFlow2Test1()[pri:0, instance:TestFlows.testFlow2@79ad8b2f]" started-at="2020-06-22T18:54:23Z" name="testFlow2Test1" finished-at="2020-06-22T18:54:25Z" duration-ms="1103" status="PASS">
+        <test-method signature="testFlow2Test1()[pri:0, instance:TestFlows.testFlow2@294425a7]" started-at="2020-08-30T18:01:12Z" name="testFlow2Test1" finished-at="2020-08-30T18:01:13Z" duration-ms="1321" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFlow2Test1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow2@79ad8b2f]" started-at="2020-06-22T18:54:25Z" name="tearDown" finished-at="2020-06-22T18:54:25Z" duration-ms="74" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestFlows.testFlow2@294425a7]" started-at="2020-08-30T18:01:13Z" name="tearDown" finished-at="2020-08-30T18:01:18Z" duration-ms="4355" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
